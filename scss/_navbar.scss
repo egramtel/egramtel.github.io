@@ -5,7 +5,7 @@
     @include transition-all;
     @include heading-font;
     .navbar-brand {
-        color: $theme-primary;
+        color: white;
         @include heading-font;
         &:hover,
         &:focus {
