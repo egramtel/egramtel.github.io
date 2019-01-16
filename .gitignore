@@ -1,0 +1,9 @@
+
+#Mac OS
+**/.DS_Store
+
+#Ignore thumbnails created by Windows
+Thumbs.db
+
+#Frontend
+node_modules/**
